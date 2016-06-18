@@ -1,0 +1,20 @@
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.DAL\bin\Debug\BookStore.DAL.dll.config
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.DAL\bin\Debug\BookStore.DAL.dll
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.DAL\bin\Debug\BookStore.DAL.pdb
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.DAL\obj\Debug\BookStore.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.DAL\obj\Debug\BookStore.DAL.dll
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.DAL\obj\Debug\BookStore.DAL.pdb
+C:\Users\Taras\BookStore\BookStore.DAL\bin\Debug\BookStore.DAL.dll.config
+C:\Users\Taras\BookStore\BookStore.DAL\bin\Debug\BookStore.DAL.dll
+C:\Users\Taras\BookStore\BookStore.DAL\bin\Debug\BookStore.DAL.pdb
+C:\Users\Taras\BookStore\BookStore.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Taras\BookStore\BookStore.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Taras\BookStore\BookStore.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Taras\BookStore\BookStore.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Taras\BookStore\BookStore.DAL\obj\Debug\BookStore.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Taras\BookStore\BookStore.DAL\obj\Debug\BookStore.DAL.dll
+C:\Users\Taras\BookStore\BookStore.DAL\obj\Debug\BookStore.DAL.pdb

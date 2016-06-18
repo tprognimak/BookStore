@@ -1,0 +1,54 @@
+﻿@{
+    ViewBag.Title = "Bookstore";
+}
+
+<div>
+    <div id="modDialog" class="modal fade">
+        <div id="dialog" class="modal-dialog">
+
+
+        </div>
+    </div>
+    <h3>Ассортимент</h3>
+    <table class="table-responsive table-bordered">
+        <tr>
+            <th><p>Имя</p></th>
+            <th><p>Отчество</p></th>
+            <th><p>Фамилия</p></th>
+            <th><p>Год рождения</p></th>
+            <th><p>Книги</p></th>
+            <th><p>Редактирование</p></th>
+
+        </tr>
+        @foreach (var p in ViewBag.Authors)
+            {
+            <tr>
+                <td><p>@p.FirstName</p></td>
+                <td><p>@p.FathersName</p></td>
+                <td><p>@p.LastName</p></td>
+                <td><p>@p.Birthday</p></td>
+                <td>
+                    @foreach (var b in ViewBag.Books)
+                    {
+                        if (b.AuthorId == p.Id)
+                        {
+                            <p>@b.Name, @b.Genre, @b.BookLenght стр.</p>
+                        }
+                    }
+                </td>
+
+                <td>
+                    @Html.ActionLink("Удалить", "Delete", new { id = p.Id }, new { @class = "bookItem btn btn-danger btn-xs" })
+                    <br />
+                    @Html.ActionLink("Добавить книгу", "CreateBook", new { id = p.Id }, new { @class = "bookItem btn  btn-success btn-xs" })
+                    <br />
+                    @Html.ActionLink("Редактировать", "Edit", new { id = p.Id }, new { @class = "bookItem btn btn-primary btn-xs" })
+                </td>
+            </tr>
+        }
+    </table>
+    <br />
+
+    <a href="/Home/Create" class="bookItem btn btn-success">Добавить нового автора</a>
+
+</div>

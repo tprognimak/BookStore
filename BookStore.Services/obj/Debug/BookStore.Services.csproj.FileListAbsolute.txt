@@ -1,0 +1,24 @@
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.Services\obj\Debug\BookStore.Services.csprojResolveAssemblyReference.cache
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.Services\bin\Debug\BookStore.Services.dll.config
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.Services\bin\Debug\BookStore.Services.dll
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.Services\bin\Debug\BookStore.Services.pdb
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.Services\bin\Debug\BookStore.DAL.dll
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.Services\bin\Debug\EntityFramework.dll
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.Services\bin\Debug\BookStore.DAL.pdb
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.Services\bin\Debug\EntityFramework.xml
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.Services\obj\Debug\BookStore.Services.dll
+C:\Users\Taras\Google Drive\Projects\BookStore\BookStore.Services\obj\Debug\BookStore.Services.pdb
+C:\Users\Taras\BookStore\BookStore.Services\bin\Debug\BookStore.Services.dll.config
+C:\Users\Taras\BookStore\BookStore.Services\bin\Debug\BookStore.Services.dll
+C:\Users\Taras\BookStore\BookStore.Services\bin\Debug\BookStore.Services.pdb
+C:\Users\Taras\BookStore\BookStore.Services\bin\Debug\BookStore.DAL.dll
+C:\Users\Taras\BookStore\BookStore.Services\bin\Debug\EntityFramework.dll
+C:\Users\Taras\BookStore\BookStore.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Taras\BookStore\BookStore.Services\bin\Debug\BookStore.DAL.pdb
+C:\Users\Taras\BookStore\BookStore.Services\bin\Debug\EntityFramework.xml
+C:\Users\Taras\BookStore\BookStore.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Taras\BookStore\BookStore.Services\obj\Debug\BookStore.Services.csprojResolveAssemblyReference.cache
+C:\Users\Taras\BookStore\BookStore.Services\obj\Debug\BookStore.Services.dll
+C:\Users\Taras\BookStore\BookStore.Services\obj\Debug\BookStore.Services.pdb
