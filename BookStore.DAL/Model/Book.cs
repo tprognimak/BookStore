@@ -15,7 +15,7 @@ namespace BookStore.DAL.Model
         [Display(Name = "Жанр")]
         public string Genre { get; set; }
 
-        [Display(Name = "Количество страниц")]
+        [Display(Name = "Количество страниц*")]
         public int BookLenght { get; set; }
     }
 }
